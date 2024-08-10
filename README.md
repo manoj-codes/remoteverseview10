@@ -61,4 +61,4 @@ Initial implementation uses Jquery and Jquery Mobile. Future implemenation with 
 Please email verseview@gmail.com for any questions, comments or suggestions. Thank you very much for your support in making VerseVIEW better.
 
 ## Revision
-Updated on July 13, 2023
+Updated on Aug 10, 2024
