@@ -55,7 +55,7 @@ ONLY STAGEVIEW AND LOWERTHRIDS FEATURES ARE IMPLEMENTED
 * OTHER COMMANDS WILL BE DOCUMENTED SOON
 
 ## Libraries
-Initial implementation uses Jquery and Jquery Mobile. Future implemenation with a modern UI framework like bootstrap
+Initial implementation uses Jquery and Bootstrap. Future implemenation with a modern UI framework like react JS
 
 ## Contact
 Please email verseview@gmail.com for any questions, comments or suggestions. Thank you very much for your support in making VerseVIEW better.
