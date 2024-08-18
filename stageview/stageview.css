@@ -127,3 +127,7 @@
 	font-weight: bold;
 	z-index:5;
 }
+
+.testborder {
+	border: medium double #cccccc;
+}

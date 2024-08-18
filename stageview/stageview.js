@@ -33,6 +33,8 @@ var p_font1;
 var p_font2;
 var p_text1;
 var p_text2;
+var p_text1next;
+var p_text2next;
 
 var greenScreen = false;
 var showdatetime = false;
@@ -67,12 +69,19 @@ function parseLower3rdResponse(txt) {			//Process correctly for the screen resol
 		p_title = "";
 		p_text1 = "";
 		p_text2 = "";
+		p_text1next = "";
+		p_text2next = "";
 
 		p_title = t.title;
 		p_font1 = t.font1;
 		p_font2 = t.font2;
 		p_text1 = t.content1;
 		p_text2 = t.content2;
+		p_text1next = t.content1next;
+		p_text2next = t.content2next;
+
+		//console.log("Current text: " + p_text1);
+		//console.log("Next text: " + p_text1next);
 
 		if (p_text2.length > 2) {
 			//showBothTranslations = true;
